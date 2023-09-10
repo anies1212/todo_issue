@@ -24,7 +24,6 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      // TODO(anies1212): これはテストです！
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
@@ -71,10 +70,6 @@ class _MyHomePageState extends State<MyHomePage> {
     // The Flutter framework has been optimized to make rerunning build methods
     // fast, so that you can just rebuild anything that needs updating rather
     // than having to individually change instances of widgets.
-    # TODO(anies1212): これはいけるんか？
-    # TODO(anies1212): お願いよ
-    // TODO(anies1212): これは？
-    //TODO(anies1212): これは？2
     return Scaffold(
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
