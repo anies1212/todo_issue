@@ -24,12 +24,6 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      // TODO(anies1212): これはテストです！
-      //  # TODO(anies1212): This time please
-      // TODO(anies1212): これは？
-      // TODO: tanomude
-        # TODO(anies1212): This time please2
-        # TODO: This time please3
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
